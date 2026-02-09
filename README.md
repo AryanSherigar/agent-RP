@@ -132,6 +132,3 @@ Open `http://localhost:3000` to start the engine.
 
 *Built with ❤️ by Aryan Sherigar for the Gemini 3 Hackathon.*
 
-```
-
-```
